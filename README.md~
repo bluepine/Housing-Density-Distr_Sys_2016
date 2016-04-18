@@ -11,10 +11,7 @@ As you know Hadoop is an open source project for processing large datasets in pa
 
 
 #Testing on Hadoop Cluster
- 	The executables(goLang code) and Hadoop-Streaming-Jar File sit on the 
-	local machine and the data file(s) are on the hdfs. I have not included
-	all the instructions for setting up hadoop and commands to run with jar
-	  
+ 	The executables(goLang code) and Hadoop-Streaming-Jar File sit on the local machine and the data file(s) are on the hdfs.  
 	
 
 	
